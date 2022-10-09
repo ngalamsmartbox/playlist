@@ -1,21 +1,3 @@
-Skip to content
-ngalamsmartbox
-/
-playlistm3u
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-playlistm3u/kitkat3
-@ngalamsmartbox
-ngalamsmartbox Create kitkat3
- 1 contributor
-301 lines (301 sloc)  28.7 KB
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png" group-title="INDONESIA",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
@@ -317,18 +299,3 @@ http://iptvtree.net:8080/86488e81/5e48c38fdd/157594
 http://iptvtree.net:8080/86488e81/5e48c38fdd/266813
 #EXTINF:-1 tvg-name="id: zee bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Indonesia",ID: Zee Bioskop
 http://iptvtree.net:8080/86488e81/5e48c38fdd/157584
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-playlistm3u/kitkat3 at main · ngalamsmartbox/playlistm3u
